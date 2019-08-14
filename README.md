@@ -1,2 +1,2 @@
-# zgydd.github.com
+# zgydd.github.io
 github pages.
